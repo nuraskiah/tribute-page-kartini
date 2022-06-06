@@ -1,4 +1,4 @@
-*Kartini of Technology* is an event conducted by Web Programming UNPAS community to celebrate Indonesian Kartini Day on April 21, 2022.
+*Kartini of Technology: Break the Gap* is an event held by Web Programming UNPAS community to celebrate Indonesian Kartini Day on April 21, 2022.
 
 Try to make your own project with this starter pack:
 - [Starter project](https://bit.ly/StarterKoT)
